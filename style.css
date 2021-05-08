@@ -213,6 +213,7 @@ div hr {
   
 .sidenav a:hover {
     color: #FFAF12;
+    padding-left: 50px;
 }
   
 .sidenav .closebtn {
